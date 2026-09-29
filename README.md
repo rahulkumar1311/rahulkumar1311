@@ -2,7 +2,7 @@
 <p align="center">
   <img 
     src="./r_pic.jpeg" 
-    alt="Rahul Kumar" 
+    alt="Rahul " 
     width="220"
   />
 </p>
